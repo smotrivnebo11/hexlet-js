@@ -1,0 +1,23 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "first npm-activation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smotrivnebo11/hexlet-js.git"
+  },
+  "keywords": [
+    "first",
+    "try"
+  ],
+  "author": "Elena Poltanova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smotrivnebo11/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/smotrivnebo11/hexlet-js#readme"
+}
