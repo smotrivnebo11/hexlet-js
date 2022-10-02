@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/smotrivnebo11/hexlet-js/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/smotrivnebo11/hexlet-js#readme"
 }
