@@ -20,5 +20,8 @@
     "url": "https://github.com/smotrivnebo11/hexlet-js/issues"
   },
   "type": "module",
-  "homepage": "https://github.com/smotrivnebo11/hexlet-js#readme"
+  "homepage": "https://github.com/smotrivnebo11/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
